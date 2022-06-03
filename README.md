@@ -1,4 +1,4 @@
-### Hi there 👋 I am pre-final year Engg Student at REC, Chennai
+### Hi there 👋 I am a pre-final year Engg Student at REC, Chennai
 
 - 🔭 I’m currently working on Machine Learning and Security
 - 🌱 I’m currently learning about Cryptography, Security and Machine Learning
